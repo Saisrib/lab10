@@ -1,0 +1,48 @@
+/* style.css */
+/* Add your custom styles here */
+
+/* Example styles for SearchBar */
+.search-container {
+    background-color: #f0f0f0;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .input {
+    padding: 5px;
+    margin-right: 10px;
+  }
+  
+  .button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  /* Example styles for PropertyList */
+  .list-container {
+    background-color: #fff;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+  }
+  
+  .list-item {
+    list-style-type: none;
+    margin-bottom: 10px;
+  }
+  
+  .property-link {
+    text-decoration: none;
+    color: #007bff;
+    cursor: pointer;
+  }
+  
+  .property-link:hover {
+    text-decoration: underline;
+  }
+  
